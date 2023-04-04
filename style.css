@@ -67,12 +67,16 @@ div.gallery {
   }
 
   button{
-	padding: 7px;
-	padding-left: 17px;
-	padding-right: 17px;
-	border-color: #9172da;
+	text-align: center;
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-color: #7e60c5;
 	border-radius: 10px;
-	background-color: #f0d2ee;
+	background-color: #f8cceb;
+	color: #7e60c5;
+	border-style: solid ;
   }
 
   div.button:hover {
@@ -90,7 +94,24 @@ h6{
 	padding-top: 50px;
 	padding-left: 10px;
 	padding-right: 10px;
-	margin-left: 15%;
+	margin-left: 25%;
+	margin-top: 7%;
+	float: left;
+}
+
+.photo {
+	background-color: rgb(243, 220, 241);
+	color:#8255d4;
+	font-size: 16px;
+	text-align: center;
+	border-radius: 5%;
+	height: 300px;
+	width: 400px;
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 7%;
+	
 }
 
 .text{
